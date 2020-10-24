@@ -3,7 +3,11 @@ video gallery using html and js
 
 # Steps to execute this project
 
-# launch ec2 Ubuntu instance 
+# launch ec2 Ubuntu instance also download the pem file
+
+# connect to ec2 instance using instance using terminal or putty 
+
+# execute below commands on ubuntu instance
 
 `sudo apt-get update`
 

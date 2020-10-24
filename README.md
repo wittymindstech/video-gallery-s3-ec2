@@ -19,7 +19,7 @@ replace content of  the existing index.html in /var/www/html dir with this index
 
 # in browser just enter the public ip of ec2 ubuntu instance and hit enter
 
-# you will the video dashboard  like blow
+# you will be able to see the video dashboard  like below
 
 
 ![](apache.png)
